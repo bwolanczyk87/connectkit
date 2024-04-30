@@ -15,7 +15,7 @@ ConnectKit is a powerful [React](https://reactjs.org/) component library for con
 - 🖥️ Simple UX — Give users a simple, attractive experience.
 - 🎨 Beautiful Themes — Predesigned themes or full customization.
 
-and much more...
+and much more... and more
 
 ## Quick Start
 
